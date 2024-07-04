@@ -1,1 +1,1 @@
-# product-page-design
+# Product design page using html css javascript
